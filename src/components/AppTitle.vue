@@ -6,4 +6,7 @@
 </template>
 
 <style scoped>
+    h1 {
+        color: #005aa1;
+    }
 </style>

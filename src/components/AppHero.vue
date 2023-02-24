@@ -8,4 +8,7 @@
 </template>
 
 <style scoped>
+img {
+    max-width: 80%;
+}
 </style>
